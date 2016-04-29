@@ -1,7 +1,6 @@
 div {
 background: blue;
-title {
-font-family: "Lobster";
+h1 {
 font size: 14;
 color: green;
 }
