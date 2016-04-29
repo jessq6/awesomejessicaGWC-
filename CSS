@@ -2,8 +2,10 @@ div {
 background: blue
 h1 {
 font-family: "Lobster";
-font size: 18
+font size: 14
 }
+h2 {
+font size: 18
 p {
     color: green;
     font-family: "Times New Roman", Times, serif;
