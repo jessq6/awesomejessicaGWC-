@@ -6,8 +6,10 @@ font size: 14
 }
 h2 {
 font size: 18
-p {
+    h1 {
     color: green;
+}
+p {
     font-family: "Times New Roman", Times, serif;
     font size: 14
 }
