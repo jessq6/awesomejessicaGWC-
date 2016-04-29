@@ -1,14 +1,12 @@
 div {
-background: blue
+background: blue;
 h1 {
 font-family: "Lobster";
 font size: 14
+color: green;
 }
 h2 {
 font size: 18
-    h1 {
-    color: green;
-}
 p {
     font-family: "Times New Roman", Times, serif;
     font size: 14
