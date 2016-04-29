@@ -1,7 +1,10 @@
 div {
 background: blue
+h1 {
+font-family: "Lobster";
+font size: 18
+}
 p {
-    text-align: center;
     color: green;
     font-family: "Times New Roman", Times, serif;
     font size: 14
