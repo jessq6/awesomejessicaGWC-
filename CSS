@@ -6,8 +6,30 @@ font color: green;
 }
 h2{
 font size: 18;
+}
 p{
     font-family: "Times New Roman", Times, serif;
     font size: 14;
+}
+body {
+  width: 800px;
+}
+
+.nav {
+  margin: auto;
+  text-align: center;
+}
+
+.nav > div {
+background: #ffaaee; /* : #rrggbb */
+float: left;
+padding: 18px;
+border: 4px dashed lightblue;
+border-radius: 4px;
+}
+
+.nav > div:hover {
+  background: pink;
+  height: 25px;
 }
 }
