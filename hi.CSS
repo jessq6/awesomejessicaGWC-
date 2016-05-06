@@ -14,22 +14,3 @@ p{
 body {
   width: 800px;
 }
-
-.nav {
-  margin: auto;
-  text-align: center;
-}
-
-.nav > div {
-background: #ffaaee; /* : #rrggbb */
-float: left;
-padding: 18px;
-border: 4px dashed lightblue;
-border-radius: 4px;
-}
-
-.nav > div:hover {
-  background: pink;
-  height: 25px;
-}
-}
