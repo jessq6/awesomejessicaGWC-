@@ -1,12 +1,12 @@
 div{
 background: #ffaaee; /* : #rrggbb */
-.h1 {
+.h1{
 font size: 14;
-color: green;
+font color: green;
 }
-h2 {
+h2{
 font size: 18;
-p {
+p{
     font-family: "Times New Roman", Times, serif;
     font size: 14;
 }
