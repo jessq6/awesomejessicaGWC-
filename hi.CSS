@@ -3,13 +3,14 @@ body {
 }
 
 h2{
-font-size: 36px;
+  font-size: 36px;
+  font-style: italic;
 }
 
 p{
-    font-size: 24px;
-    color: #9A2EFE;
-    font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+  color: #9A2EFE;
+  font-family: "Times New Roman", Times, serif;
 }
 
 #helo {
