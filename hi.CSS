@@ -5,13 +5,15 @@ body {
   background-color: lightblue;
 }
 
-.h1{
-font size: 14;
-font color: green;
+h1{
+font-size: 14;
+color: green;
 }
+
 h2{
-font size: 18;
+font-size: 18;
 }
+
 p{
     font-family: "Times New Roman", Times, serif;
     font size: 14;
