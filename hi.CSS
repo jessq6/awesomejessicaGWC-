@@ -4,11 +4,15 @@ body {
 }
 
 h2{
-font-size: 18;
+font-size: 18px;
 }
 
 p{
-    font-size: 14;
+    font-size: 14px;
     color: green;
     font-family: "Times New Roman", Times, serif;
+}
+
+img {
+  float: left;
 }
