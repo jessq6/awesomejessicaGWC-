@@ -1,6 +1,6 @@
 body {
   width: 800px;
-  background-color: #FFFFFF;
+  background-color: #2ECCFA;
 }
 
 h2{
@@ -11,9 +11,4 @@ p{
     font-size: 14px;
     color: green;
     font-family: "Times New Roman", Times, serif;
-}
-
-img {
-  display: inline-block;
-  float: left;
 }
