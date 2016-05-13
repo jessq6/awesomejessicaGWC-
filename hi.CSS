@@ -1,5 +1,10 @@
 div{
 
+body {
+  width: 800px;
+  background-color: lightblue;
+}
+
 .h1{
 font size: 14;
 font color: green;
@@ -11,8 +16,5 @@ p{
     font-family: "Times New Roman", Times, serif;
     font size: 14;
 }
-body {
-  width: 800px;
-  background-color: lightblue;
-}
+
 }
