@@ -12,3 +12,13 @@ p{
     color: green;
     font-family: "Times New Roman", Times, serif;
 }
+
+#helo {
+  overflow: hidden;
+  background-color: white;
+}
+
+img {
+  display: inline-block;
+  float: left;
+}
