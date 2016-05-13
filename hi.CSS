@@ -2,12 +2,7 @@ div{
 
 body {
   width: 800px;
-  background-color: lightblue;
-}
-
-h1{
-font-size: 14;
-color: green;
+  background-color: #FFFFFF;
 }
 
 h2{
@@ -15,8 +10,9 @@ font-size: 18;
 }
 
 p{
+    font-size: 14;
+    color: green;
     font-family: "Times New Roman", Times, serif;
-    font size: 14;
 }
 
 }
